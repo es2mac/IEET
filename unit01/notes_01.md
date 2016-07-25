@@ -100,6 +100,11 @@ Unit 1: Foundations
 	- E.g. what happens after the iPads start breaking down?
 
 
+## State-Level Strategies and Standards
 
+- States...
+	- Create funding streams
+	- Responsible for ed tech governing policies
+	- (High-impact examples, difficult to summarize)
 
 
