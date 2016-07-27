@@ -2,10 +2,11 @@
 
 [Comparative Analysis of National Teacher Surveys](http://www.joanganzcooneycenter.org/wp-content/uploads/2013/10/jgcc_teacher_survey_analysis_final.pdf)
 
-- Overview of 5 surveys from 2012-2013, on K-12 teachers' practices around & attitudes toward technology
+- Overview of 5 surveys from 2012-2013, on K-12 teachers' practices around &
+  attitudes toward technology
 
-- From each survey take the goals, dates & respondent demographics, and
-      topline findings
+- From each survey take the goals, dates & respondent demographics, and topline
+  findings
 
 ### Survey Goals
 
