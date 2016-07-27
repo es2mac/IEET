@@ -12,5 +12,8 @@
    * Readings
       * [Comparative Analysis of National Teacher Surveys](unit_01/08_reading_teacher_surveys.md)
       * [In Classroom of Future, Stagnant Scores](unit_01/09_reading_stagnant_scores.md)
+      * [State-of-the-art education software often doesn’t help students learn more, study finds](unit_01/10_reading_stateofart.md)
+      * [Resources to support the SAMR Model](unit_01/11_reading_samr_resource.md)
+
 
 
