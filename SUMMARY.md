@@ -10,7 +10,7 @@
    * [Case Studies](unit_01/06_case_studies.md)
    * ["Big Three" Aspects of Educational Technology](unit_01/07_big_three.md)
    * Readings
-      * [Comparative Analysis of National Teacher Surveys](unit01/08_reading_teacher_surveys.md)
-      * [In Classroom of Future, Stagnant Scores](unit01/09_reading_stagnant_scores.md)
+      * [Comparative Analysis of National Teacher Surveys](unit_01/08_reading_teacher_surveys.md)
+      * [In Classroom of Future, Stagnant Scores](unit_01/09_reading_stagnant_scores.md)
 
 
