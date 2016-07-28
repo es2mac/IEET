@@ -1,13 +1,12 @@
 ## Assignment 1.1: Profile Your Implementation Context
 
-Introduce us to the implementation context you want to use for your project
-   by creating a profile that describes and illuminates important
-   characteristics.
+Introduce us to the implementation context you want to use for your project by
+creating a profile that describes and illuminates important characteristics.
 
 - Tell us about your target environment.
 - Help us learn about one key stakeholder.
 - Explain why there is potential for technology to be implemented in this
-      context. 
+  context. 
 
 ### My Submission
 
