@@ -3,6 +3,8 @@
 - Interview with Greg Schwanbeck, discussing the framework he used to select
   technology
 
+- [Reading (PDF)](https://d37djvu3ytnwxt.cloudfront.net/assets/courseware/v1/4125f306c1414847d37b3db30ae4daf3/asset-v1:MITx+11.133x_2+2T2016+type@asset+block/SchwanbeckFactorsFramework.pdf)
+
 - Good teacher always thinks about what tools can I bring into the classroom
   that can improve over current practice
     - Compare and evaluate new vs. old tools and practices using these
