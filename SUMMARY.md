@@ -21,5 +21,8 @@
    * [Frameworks](unit_02/01_frameworks.md)
    * [TPACK](unit_02/02_tpack.md)
    * [Activity Break: Popcorn Popper or Chef's Knife?](unit_02/03_popcorn_popper_chefs_knife.md)
+   * [1:1 Initiatives](unit_02/04_1_to_1_initiatives.md)
+   * [Other Factors Impacting Selections](unit_02/05_other_factors.md)
+   * [Gloucester High School Visit](unit_02/06_gloucester_high.md)
 
 

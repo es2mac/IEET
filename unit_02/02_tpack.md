@@ -1,6 +1,6 @@
 ## TPACK
 
-- [TPACK in 2 Minutes](https://www.youtube.com/watch?t=36&v=FagVSQlZELY)
+- Video: [TPACK in 2 Minutes](https://www.youtube.com/watch?t=36&v=FagVSQlZELY)
 
 - A framework that combines three knowledge areas
     - Content: The "What"
