@@ -20,5 +20,6 @@
 * Unit 2: Selecting Educational Technology
    * [Frameworks](unit_02/01_frameworks.md)
    * [TPACK](unit_02/02_tpack.md)
+   * [Activity Break: Popcorn Popper or Chef's Knife?](unit_02/03_popcorn_popper_chefs_knife.md)
 
 
