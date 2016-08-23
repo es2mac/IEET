@@ -26,6 +26,17 @@
 - The school
 - The teacher
 - The students
+- The project
+- The technology
 
 
+## Observations
+
+- We have a ton of technologies, not being used much
+
+- Often it's not a problem with the technology, but the structures, policy and
+  practices don't allow for change
+
+- More schools are starting to realize we need better ways to explore and
+  redesign
 
