@@ -24,5 +24,14 @@
    * [1:1 Initiatives](unit_02/04_1_to_1_initiatives.md)
    * [Other Factors Impacting Selections](unit_02/05_other_factors.md)
    * [Gloucester High School Visit](unit_02/06_gloucester_high.md)
+   * Readings
+      * [What's Worth Investing In? How to Decide What Technology You Need](unit_02/07_whats_worth_investing_in.md)
+      * [Integration Framework](unit_02/08_integration_framework.md)
+      * [Study: One-to-One Laptop Programs Improve Student Learning](unit_02/09_1_to_1_meta_study.md)
+      * [Why Some Schools Are Selling All Their iPads](unit_02/10_why_selling_ipads.md)
+   * [Assignment 2.1: Your Method for Selecting Educational Technology](unit_02/11_assignment_2_1.md)
+   * Assignment 2.2
 
+* Unit 3: Selecting Educational Technology
+   * [Overview](unit_03/01_overview.md)
 
