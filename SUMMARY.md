@@ -34,4 +34,5 @@
 
 * Unit 3: Selecting Educational Technology
    * [Overview](unit_03/01_overview.md)
+   * [Barriers](unit_03/02_barriers.md)
 
