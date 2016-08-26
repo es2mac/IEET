@@ -35,4 +35,11 @@
 * Unit 3: Selecting Educational Technology
    * [Overview](unit_03/01_overview.md)
    * [Barriers](unit_03/02_barriers.md)
+   * [Professional Development & Other Challenges](unit_03/03_professional_development.md)
+   * Activity Break: If You Give a Student Technology
+   * [Use & Misuse of Technology](unit_03/04_use_and_misuse.md)
+   * [Educational Technology Start-Ups](unit_03/05_startups.md)
+   * [Case Studies & Unit Closer](unit_03/.md)
+   * Readings
+   * [Assignment 3.1: Analyze Barriers & Opportunities](unit_03/.md)
 

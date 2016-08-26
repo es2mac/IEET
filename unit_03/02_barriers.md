@@ -9,6 +9,8 @@
 
 - What are the dimensions of barriers to edtech adoption?
 
+- the Individualized Inventory for Integrating Instructional Innovations
+
 
 ### How to use the i5 framework?
 
