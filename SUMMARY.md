@@ -39,7 +39,10 @@
    * Activity Break: If You Give a Student Technology
    * [Use & Misuse of Technology](unit_03/04_use_and_misuse.md)
    * [Educational Technology Start-Ups](unit_03/05_startups.md)
-   * [Case Studies & Unit Closer](unit_03/.md)
+   * [Case Studies & Unit Closer](unit_03/06_case_studies.md)
    * Readings
-   * [Assignment 3.1: Analyze Barriers & Opportunities](unit_03/.md)
+      * A Framework for Addressing Challenges to Classroom Technology Use (i5)
+      * [CITEd: Lessons Learned for Effective Technology Implementation](unit_03/07_cited.md)
+      * [Teachers Know Best: Teachers' Views on Professional Development](unit_03/08_teachers_know_best.md)
+   * Assignment 3.1: Analyze Barriers & Opportunities
 
