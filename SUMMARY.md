@@ -50,11 +50,11 @@
    * [Overview](unit_04/01_overview.md)
    * [Considering Evaluation: Ilona Holland](unit_04/02_considering_evaluation.md)
    * Activity Break: Skinner Teaching Machine
-   * [Learning from Evaluation: David Reider](unit_04/)
-   * [Moving Forward & Unit Closer](unit_04/)
+   * [Learning from Evaluation: David Reider](unit_04/03_learning_from_evaluation.md)
+   * [Moving Forward & Unit Closer](unit_04/04_moving_forward.md)
    * Reading: Evaluation Guide & Report Examples
-      * TODO
+      * An Educator's Guide to Evaluating the Use of Technology in Schools and Classrooms
+      * Report examples
    * Assignment 4.1: Questions for Evaluation
    * Assignment 4.2: Finish Your Project
-   * Assignment 4.3: Closing Survey
 
